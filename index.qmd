@@ -1,0 +1,9 @@
+# BPP Portfolio
+
+## About me
+
+### Hi, I am a new data scientist working in the UK public sector. I have a keen interest in applying data science in geopolitical contexts and will be looking to build this portfolio as I learn skills that I can apply to provide insight into global events, trends, patterns, and dynamics.
+
+## Projects
+
+- [Commodities HMM](Commodities_HMM.html)
