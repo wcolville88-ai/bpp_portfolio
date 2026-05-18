@@ -13,9 +13,10 @@ format:
     theme:
       - cosmo
       - brand
+    page-layout: full
     css: styles.css
     toc: true
-    page-layout: full
+	
 
 
 
